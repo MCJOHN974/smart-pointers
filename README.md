@@ -1,2 +1,2 @@
 # smart-pointers
-my implementation of smart pointers in C++
+My implementation of smart pointers in C++. It satisfies C++ standard in my best knowledge.
